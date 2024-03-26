@@ -1,0 +1,17 @@
+body {
+  background-color: skyblue;
+}
+h1 {
+  color: blue;
+  text-align: center;
+  background-color: blueviolet;
+}
+h2 {
+  color: burlywood;
+  text-align: center;
+  background-color: darkcyan;
+}
+p {
+  font-size: larger;
+  font-weight: 400;
+}
